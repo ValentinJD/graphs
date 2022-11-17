@@ -1,4 +1,4 @@
-package com.graphs;
+package com.graphs.book;
 
 import java.util.Arrays;
 import java.util.List;
@@ -13,7 +13,7 @@ public class Main {
         // построить graph из заданного списка ребер
         Graph graph = new Graph(edges);
 
-        // вывести представление списка смежности com.graphs.Graph
+        // вывести представление списка смежности com.graphs.book.Graph
         Graph.printGraph(graph);
     }
 }

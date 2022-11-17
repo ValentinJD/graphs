@@ -1,4 +1,4 @@
-package com.graphs;
+package com.graphs.book;
 
 import java.util.ArrayList;
 import java.util.List;

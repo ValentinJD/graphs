@@ -1,4 +1,4 @@
-package com.graphs;
+package com.graphs.book;
 
 // Класс для хранения ребра Graph
 class Edge
